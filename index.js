@@ -22,7 +22,7 @@ const config = {
     instagram: 'qm usa samerda?',
     nomer: 'wa.me/+5511981875428',
     aktif: '24 JAM',
-    whatsapp: 'https://chat.whatsapp.com/',
+    whatsapp: 'https://chat.whatsapp.com/LN5m2ZmfhcY529FqlsWPgl',
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
     waktu: time
 }
